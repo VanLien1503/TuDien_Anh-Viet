@@ -1,0 +1,17 @@
+input {
+    height: 100px;
+    width: 200px;
+}
+
+th {
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+p {
+    height: 100px;
+    width: 200px;
+    border: 1px solid blue;
+    text-align: center;
+
+}
